@@ -1,0 +1,1 @@
+{86: 'total_months', 38382578: 'total_pl', -2288.1976744186045: 'average_change', 1926159.0: 'greatest_increase', -2196167.0: 'greatest_decrease'}
